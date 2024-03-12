@@ -13,7 +13,7 @@ width="800"  height="3">
 
 <img align='right' src="https://github.com/eryajf/tu/blob/main/img/image_20220626_200153.gif?raw=true" width="450" height="390" />
 
-有时候想象自己并不是一个IT男，尽管身处IT工作之中，但是更多时候却又喜欢以一种跳出去回望这个群体的样子，常常别有一番滋味。
+有时候很想转行，运维自己学而不精，技术非常分散。
 
 ### 🤗 欢迎来访
 
