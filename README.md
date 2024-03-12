@@ -2,5 +2,4 @@
 <img height="190px" width="100%" src="https://github-readme-stats.vercel.app/api?username=lanmoyan&theme=radical&show_icons=true&count_private=true" />
 <img height="190px" width="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lanmoyan&theme=radical&show_icons=true&count_private=true&layout=compact" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanmoyan&theme=default&hide_border=true" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lanmoyan&theme=default&hide_border=true" />
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
