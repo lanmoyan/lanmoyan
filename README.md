@@ -20,23 +20,6 @@ width="800"  height="3">
 ### 🧰 语言工具
 
 ### 💻 Stats
-<div align="center">
-[![懒陌颜's github stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=lanmoyan&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=eryajf&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=eryajf&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
-<!-- [![profile](https://github-profile-trophy.vercel.app/?username=lanmoyan&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=lanmoyan&theme=algolia&column=8) -->
-</div>
-</details>
-
-### 🏊 更多仓库
-
-<details open>
-<summary>点击展开 ...</summary>
-
-|                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
-| :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
-| [docker_learn](https://github.com/eryajf/docker_learn) | ![](https://img.shields.io/github/stars/eryajf/docker_learn?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/eryajf/docker_learn?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 学习docker过程中所用到的一些东东 |
-| [shellabout](https://github.com/eryajf/shellabout) | ![](https://img.shields.io/github/stars/eryajf/shellabout?color=f2f08d&logo=Undertale&logoColor=eb4630)  | ![](https://img.shields.io/github/forks/eryajf/shellabout?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | 一些值得珍藏的脚本  |
-| [magic-of-kubernetes-scripts](https://github.com/eryajf/magic-of-kubernetes-scripts) | ![](https://img.shields.io/github/stars/eryajf/magic-of-kubernetes-scripts?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![]
-
 
 ### 📝 博客最近更新
 
@@ -46,36 +29,14 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [带你认识本地大模型框架Ollama&lpar;可直接上手&rpar;](https://wiki.eryajf.net/pages/97047e/) 
+- 🐻 [你就像天外来物一样-求之不得](https://blog.imoyan.top/posts/0717/) 
 
-- 🎃 [学习周刊-总第149期-2024年第10周](https://wiki.eryajf.net/pages/9c5e05/) 
+- 🐻 [保姆教程之友链朋友圈](https://blog.imoyan.top/posts/cbff/) 
 
-- 🚀 [学习周刊-总第148期-2024年第09周](https://wiki.eryajf.net/pages/5e2bc3/) 
+- 🎃 [安知鱼主题标签](https://blog.imoyan.top/posts/7b4d/) 
 
-- 🌋 [学习周刊-总第147期-2024年第08周](https://wiki.eryajf.net/pages/5997f0/) 
-
-- 🌁 [过年时鼓捣xirang框架遇到的前后端问题两则](https://wiki.eryajf.net/pages/fe52bc/) 
-
-- 😺 [学习周刊-总第146期-2024年第07周](https://wiki.eryajf.net/pages/f351e3/) 
 <!-- BLOG-POST-LIST:END -->
 
-更多内容直接点击：[https://wiki.eryajf.net](https://wiki.eryajf.net)
-
-</details>
-
-### 🎸 最近在听音乐
-
-<details open>
-<summary>点击展开 ...</summary>
-
-<table align="center">
-<tr>
-<td valign="top">
-
-[![Netease recently played](https://netease-recent-profile.vercel.app/?id=316286554&title=%E6%9C%80%E8%BF%91%E5%9C%A8%E5%90%AC&width=350)](https://music.163.com/#/user/home?id=316286554)
-
-</td>
-</tr>
-</table>
+更多内容直接点击：[https://blog.imoyan.top/](https://blog.imoyan.top/)
 
 </details>
