@@ -36,7 +36,7 @@ width="800"  height="3">
 <img align='right' src="https://tva4.sinaimg.cn/large/008k1Yt0ly1h4no500obvg30fk0bo1cn.gif" width="330" />
 
 <!-- BLOG-POST-LIST:START -->
-- 🐻 [你就像天外来物一样-求之不得](https://blog.imoyan.top/posts/0717/) 
+- 🚀 [你就像天外来物一样-求之不得](https://blog.imoyan.top/posts/0717/) 
 
 - 🐻 [保姆教程之友链朋友圈](https://blog.imoyan.top/posts/cbff/) 
 
